@@ -1,0 +1,7 @@
+c:\users\user\source\repos\TheYellowBook\TheYellowBook\bin\Debug\TheYellowBook.exe.config
+c:\users\user\source\repos\TheYellowBook\TheYellowBook\bin\Debug\TheYellowBook.exe
+c:\users\user\source\repos\TheYellowBook\TheYellowBook\bin\Debug\TheYellowBook.pdb
+c:\users\user\source\repos\TheYellowBook\TheYellowBook\obj\Debug\TheYellowBook.csprojAssemblyReference.cache
+c:\users\user\source\repos\TheYellowBook\TheYellowBook\obj\Debug\TheYellowBook.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\TheYellowBook\TheYellowBook\obj\Debug\TheYellowBook.exe
+c:\users\user\source\repos\TheYellowBook\TheYellowBook\obj\Debug\TheYellowBook.pdb
